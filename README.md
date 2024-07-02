@@ -1,6 +1,6 @@
 ## Hi 👋
 
-My name is annie, c, currently swe in sf working in ml. 
+My name is annie currently in sf working in ml. 
 
 - 💬 Ask me about **ML**, **MLOps**, **GenAI** and anything related to machine learning, audio machine learning, pytorch
 
