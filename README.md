@@ -6,7 +6,7 @@ My name is annie currently in sf working in ml.
 
 Check me out at: 
 - [substack](https://bestaitoolsforyou.substack.com/)
-- [DevTo](https://dev.to/pinkmashpotato)
+
 
 ## Projects
 
